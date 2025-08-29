@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tdesign:secured-filled">
+<path id="Vector" d="M18.3333 3.28337L9.99999 0.366699L1.66666 3.28337V10C1.66666 13.4392 3.77832 15.8434 5.74666 17.3359C6.93506 18.2279 8.23851 18.9553 9.62166 19.4984C9.7161 19.5339 9.8111 19.5678 9.90666 19.6L9.99999 19.6334L10.095 19.6C10.2772 19.5367 10.4578 19.4689 10.6367 19.3967C11.9248 18.866 13.1401 18.1735 14.2533 17.3359C16.2225 15.8434 18.3333 13.4392 18.3333 10V3.28337ZM9.16749 12.8459L5.63332 9.31003L6.81166 8.13087L9.16832 10.4884L13.8825 5.7742L15.0617 6.95253L9.16749 12.8459Z" fill="url(#paint0_linear_164_290)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_164_290" x1="1.28944" y1="8.62274" x2="18.9489" y2="10.1615" gradientUnits="userSpaceOnUse">
+<stop offset="3.01917e-07" stop-color="#006CD4"/>
+<stop offset="0.2954" stop-color="#0675D5"/>
+<stop offset="0.7849" stop-color="#168FD6"/>
+<stop offset="1" stop-color="#1E9CD7"/>
+</linearGradient>
+</defs>
+</svg>

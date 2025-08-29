@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "660306225395",
+    "project_id": "travel-community-marketplace",
+    "storage_bucket": "travel-community-marketplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660306225395:android:50c837788fdc92a503ef86",
+        "android_client_info": {
+          "package_name": "com.mmc.tcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660306225395-2a4eml9g01tspj2hdtcm459m8qvccnf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTXB7TMIrOogvKr8XmYODEfIsRIyT9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660306225395-132s81d6b4tgkvb69agl1i3ooqv4rv0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660306225395-f3ffeh5hkrcuijb2d247reuf6uls69bb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmc.tcm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660306225395:android:e86d830f6944f91a03ef86",
+        "android_client_info": {
+          "package_name": "com.mmc.tcm.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660306225395-2a4eml9g01tspj2hdtcm459m8qvccnf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTXB7TMIrOogvKr8XmYODEfIsRIyT9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660306225395-132s81d6b4tgkvb69agl1i3ooqv4rv0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660306225395-f3ffeh5hkrcuijb2d247reuf6uls69bb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmc.tcm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
